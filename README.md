@@ -1,5 +1,7 @@
 # Front-end test
 
+[![Join the chat at https://gitter.im/proximitybbdomu/front-end-test](https://badges.gitter.im/proximitybbdomu/front-end-test.svg)](https://gitter.im/proximitybbdomu/front-end-test?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 You'll have few days to integrate a single page with HTML, CSS and JavaScript.
 (You can download the [PSD on Wetransfert](http://bit.ly/1W5gaDB)).
 
