@@ -1,7 +1,7 @@
 # Front-end test
 
 You'll have few days to integrate a single page with HTML, CSS and JavaScript.
-(The PSD is into the folder ressouces).
+(You can download the [PSD on Wetransfert](http://bit.ly/1W5gaDB)).
 
 ### Task List Syntax
 
